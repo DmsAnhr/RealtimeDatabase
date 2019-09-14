@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "544345097335",
+    "firebase_url": "https://realtimedatabase-dfa8a.firebaseio.com",
+    "project_id": "realtimedatabase-dfa8a",
+    "storage_bucket": "realtimedatabase-dfa8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544345097335:android:48d3e275f4300257b67272",
+        "android_client_info": {
+          "package_name": "com.example.funtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544345097335-becpra93mrqjsqb6ntii3gqknp5frri1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.funtimedatabase",
+            "certificate_hash": "90baf0fd0600587f84050caad3d0a9662cf14bad"
+          }
+        },
+        {
+          "client_id": "544345097335-sq5kbmhhb5cq0u7lg0l91v4t5i5ibai0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8f1QZ8ClFd9iMGLGQYbZQdsAdwoxYfa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544345097335-sq5kbmhhb5cq0u7lg0l91v4t5i5ibai0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
